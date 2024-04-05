@@ -60,6 +60,8 @@ Inspire by paper: https://huggingface.co/papers/2403.13248
 - [ ] Autogen Agent Framework for multiagent system.
 - [ ] Dockerize the application for easy deployment and scalability.
 
+## Sample Output
+![Sample Output]( cowboy_rider/final_video_with_music.mp4)
 
 ## License
 Chitram - VideoMusicGenerator is licensed under the Apache License. See the LICENSE file for more details.
