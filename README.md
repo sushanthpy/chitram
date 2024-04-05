@@ -60,12 +60,9 @@ Inspire by paper: https://huggingface.co/papers/2403.13248
 - [ ] Autogen Agent Framework for multiagent system.
 - [ ] Dockerize the application for easy deployment and scalability.
 
+
 ## Sample Output
-
-[![Chirtam]          // Title
-(https://i9.ytimg.com/vi_webp/S0SKG49J-8M/mq1.webp?sqp=CLCdvrAG-oaymwEmCMACELQB8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGEIgWShyMA8=&rs=AOn4CLC8McvZU7V_MFqCXyTKjFlgqkmaPw)] // Thumbnail
-(https://www.youtube.com/watch?v=S0SKG49J-8M "chirtam")  
-
+[![Chirtam](https://i9.ytimg.com/vi_webp/S0SKG49J-8M/mq1.webp?sqp=CLCdvrAG-oaymwEmCMACELQB8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGEIgWShyMA8=&rs=AOn4CLC8McvZU7V_MFqCXyTKjFlgqkmaPw)](https://www.youtube.com/watch?v=S0SKG49J-8M "chirtam")  
 
 ## License
 Chitram - VideoMusicGenerator is licensed under the Apache License. See the LICENSE file for more details.
